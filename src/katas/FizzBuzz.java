@@ -7,13 +7,15 @@ public class FizzBuzz {
 		
 		for(int i=0;i<100;i++) {
 			numeroActual++;
-			if(numeroActual % 3 == 0) {
+			if(numeroActual % 3 == 0 && numeroActual % 5 == 0) {
+				System.out.println("FizzBuzz");
+			}else if(numeroActual % 3 == 0) {
 				System.out.println("Fizz");
-			}else if(numeroActual % 5 == 0) {
+			}else if (numeroActual % 5 == 0) {
 				System.out.println("Buzz");
-			}else {
+			}else{
 				System.out.println(numeroActual);
-				}
+			}
 		}
 	}	
 }

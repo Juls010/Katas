@@ -1,4 +1,7 @@
 # Katas and Debugging
+<p align="center">
+  <img src="https://t3.ftcdn.net/jpg/04/43/59/60/360_F_443596034_37vgVALEJZ4fS5RWr5s1AtPspEJZX7bv.jpg" alt="Captura de pantalla 1" title="Vista del código" width="200">
+</p>
 
 This repository has the solutions to two Java exercises I did, plus some screenshots of the debugging process I performed in Eclipse. The exercises are the following:
 
@@ -20,7 +23,7 @@ Here I simulate a virtual pet, something like the Tamagotchi. The Tamagotchi is 
 
 ## Tools used
 
-- Language**: Java
+- Language: Java
 - IDE: Eclipse
 - **Debugging**: I used Eclipse breakpoints to see how the code executes and how variables change.
 
